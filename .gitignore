@@ -1,0 +1,14 @@
+__pychache__/
+*.py[cod]
+*.$py.class
+
+node_modules/
+staticfiles/
+.idea
+
+*.log
+db.sqlite3
+
+.python-version
+
+.env
